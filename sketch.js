@@ -15,7 +15,7 @@ function draw(){
         
     }
     
-    fill(255);
+    fill(255); 
     textSize(50);
     text(habits[j], 250, 150);
 }
